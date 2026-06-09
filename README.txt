@@ -1,0 +1,1 @@
+To run. Done use coderunner. Instead use debug configs to click the ones that say debug or run without anything else.
