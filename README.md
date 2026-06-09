@@ -1,1 +1,41 @@
-# Flappy-bird
+# 🗂️ Personal Portfolio
+
+Welcome to my personal portfolio, where you will be able to see all my projects
+
+---
+
+## 🛠️ Built With
+
+- Simple Flappy-Bird game made with raylib
+
+| Technology | Usage |
+|------------|-------|
+| [C++] | graphic design and logic|
+| [raylib] | used library | 
+
+---
+
+## ✨ Features
+
+- 🧑‍💻 Simple game
+- 📂 code structurisation
+- 🎨 Clean and responsive design
+
+---
+
+## ⚙️ Run
+
+### Download the repertory 
+
+Start the main.exe to play the game
+
+
+## 👤 Author
+
+**Yusko0o**
+- GitHub: [@Yusko0o](https://github.com/Yusko0o)
+
+---
+
+*Made with ❤️ and a lot of coffee ☕*
+*No vibe coding ❤️*
