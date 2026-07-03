@@ -1,4 +1,4 @@
-# 🗂️ Personal Portfolio
+# 🦩 Flappy bird game 
 
 Welcome to my personal portfolio, where you will be able to see all my projects
 
@@ -18,8 +18,8 @@ Welcome to my personal portfolio, where you will be able to see all my projects
 ## ✨ Features
 
 - 🧑‍💻 Simple game
-- 📂 code structurisation
-- 🎨 Clean and responsive design
+- 📂 scoring system
+- 🎨 reset button
 
 ---
 
