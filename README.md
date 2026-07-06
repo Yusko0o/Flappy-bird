@@ -1,7 +1,5 @@
 # 🦩 Flappy bird game 
 
-Welcome to my personal portfolio, where you will be able to see all my projects
-
 ---
 
 ## 🛠️ Built With
